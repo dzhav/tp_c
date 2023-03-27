@@ -1,0 +1,3 @@
+/home/dzhavid/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/home/dzhavid/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dzhavid/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
